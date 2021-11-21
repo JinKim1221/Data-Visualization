@@ -1,0 +1,31 @@
+<body>
+  <script>
+    // Add your code below this line
+    d3.select("body")
+      .append("h1")
+      .text("Learning D3")
+
+
+    // Add your code above this line
+  </script>
+
+</body>
+
+<!--
+The body should have one h1 element.
+Passed
+
+The h1 element should have the text Learning D3 in it.
+Passed
+
+Your code should access the d3 object.
+Passed
+
+Your code should use the select method.
+Passed
+
+Your code should use the append method.
+Passed
+
+Your code should use the text method.
+-->
